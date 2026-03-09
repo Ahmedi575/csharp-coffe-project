@@ -1,0 +1,13 @@
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\bin\Debug\WindowsFormscoffe.exe.config
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\bin\Debug\WindowsFormscoffe.exe
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\bin\Debug\WindowsFormscoffe.pdb
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.csproj.AssemblyReference.cache
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.csproj.SuggestedBindingRedirects.cache
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.Form1.resources
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.Properties.Resources.resources
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.csproj.GenerateResource.cache
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.csproj.CoreCompileInputs.cache
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.exe
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.pdb
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.Form2.resources
+D:\csharp projects\csharp-coffe-project\WindowsFormscoffe\obj\Debug\WindowsFormscoffe.userorder.resources
