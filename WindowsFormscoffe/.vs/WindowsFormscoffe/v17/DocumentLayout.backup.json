@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|d:\\csharp projects\\csharp-coffe-project\\windowsformscoffe\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|d:\\csharp projects\\csharp-coffe-project\\windowsformscoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D66A1C-FF32-4E12-881D-C02A1E087C40}|WindowsFormscoffe.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:46:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guest.cs [Design]",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Guest.cs [Design]*",
+              "RelativeToolTip": "Guest.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:13:53.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "itemsform.cs",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs",
+              "RelativeDocumentMoniker": "itemsform.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs",
+              "RelativeToolTip": "itemsform.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:25:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.cs",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\users.cs",
+              "RelativeDocumentMoniker": "users.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\users.cs*",
+              "RelativeToolTip": "users.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:08:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "users.cs [Design]",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\users.cs",
+              "RelativeDocumentMoniker": "users.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\users.cs [Design]*",
+              "RelativeToolTip": "users.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:50:14.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "itemsform.cs [Design]",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs",
+              "RelativeDocumentMoniker": "itemsform.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\itemsform.cs [Design]",
+              "RelativeToolTip": "itemsform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T22:16:28.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "orders.cs [Design]",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\orders.cs",
+              "RelativeDocumentMoniker": "orders.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\orders.cs [Design]",
+              "RelativeToolTip": "orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T01:15:27.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\csharp projects\\csharp-coffe-project\\WindowsFormscoffe\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T22:49:28.875Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
